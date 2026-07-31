@@ -13,7 +13,7 @@
 
 ## 使い方
 
-1. [こちら](https://github.com/yamamori-yamori/novedit/raw/refs/heads/main/novedit.zip)をダウンロードしてzipを解凍し、`novedit.html` をブラウザで開く（Chrome 推奨）。
+1. [こちら](https://github.com/yamamori-yamori/novedit/raw/refs/heads/main/novedit.zip)をダウンロードしてzipを解凍し、`novedit.html` をブラウザで開く（Chrome 推奨）。  
    または、 [作者HP](https://yamamori-yamori.github.io/mypage/)から「WEB版」をご使用ください。
 
 2. 右ペインクリックまたはドラッグで編集したいファイルを設定。左ペインには参照したいテキストファイルをまとめて設定できます。
